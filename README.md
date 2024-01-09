@@ -1,1 +1,1 @@
-# BLOG_AP
+# This is my Django Project
